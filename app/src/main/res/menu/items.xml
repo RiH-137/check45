@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home_clip"/>
+
+    <item android:title="Scan"
+        android:id="@+id/scan"
+        android:icon="@drawable/add_clip"/>
+
+
+    <item android:title="Language"
+        android:id="@+id/lang"
+        android:icon="@drawable/lang_clip"/>
+
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/profile_clip"/>
+
+</menu>

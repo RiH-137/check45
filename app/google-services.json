@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369577081994",
+    "project_id": "kishaan-madad",
+    "storage_bucket": "kishaan-madad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369577081994:android:73ca3c82fc36567c834173",
+        "android_client_info": {
+          "package_name": "com.example.kishaanmadad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ6nKICzC1INOi44O6cshPHRiIh2ZnhrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
